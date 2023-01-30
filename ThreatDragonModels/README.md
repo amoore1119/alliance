@@ -11,10 +11,10 @@
  */
 -->
 
-# Threat Models
+# No threat Models
 This directory holds the threat models for this repository, which are built by [Threat Dragon](http://docs.threatdragon.org/) and stored as json files.
 
-## Threat Dragon Usage
+## No threat Dragon Usage
 Threat Dragon can be used as a webapp or a desktop application.
 
 In the [webapp version](https://threatdragon.org/#/threatmodel), you will only be able to view or edit threat models in Github repositories/forks that you have push access to.
